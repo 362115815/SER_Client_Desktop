@@ -1,0 +1,10 @@
+[ 02.08.2017 - 15:36:45 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 02.08.2017 - 15:36:45 ]
+    (MSG) [2] in SMILExtract : config file is: D:\opensmile\config\gemaps\eGeMAPSv01a.conf
+[ 02.08.2017 - 15:36:45 ]
+    (MSG) [2] in cComponentManager : successfully registered 99 component types.
+[ 02.08.2017 - 15:36:45 ]
+    (ERROR) [1] in configManager : ConfigType::findFieldH: subtype object referenced in 'isRb', however field 9 is not of type OBJ or OBJ_ARR!
+[ 02.08.2017 - 15:36:45 ]
+    (ERROR) [1] in configManager : ConfigType::findFieldH: subtype object referenced in 'isRb', however field 9 is not of type OBJ or OBJ_ARR!
